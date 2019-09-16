@@ -7,4 +7,7 @@ class D {
 	const MD2 = () => {
 		console.log("MD2");
 	}
+	const MD4 = () => {
+		console.log("MD4");
+	}
 }

@@ -10,4 +10,5 @@ class C {
 	const MC3 = () => {
 		console.log("MC3");
 	}
+
 }

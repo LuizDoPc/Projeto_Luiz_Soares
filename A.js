@@ -7,4 +7,7 @@ class A {
 	const MA2 = () => {
 		console.log("MA2");
 	}
+	const MA3 = () => {
+		console.log("MA3");
+	}
 }
